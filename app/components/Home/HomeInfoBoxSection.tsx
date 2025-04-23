@@ -33,14 +33,6 @@ const infoBoxData = [
     title: "Colors",
     highlight: "$.tint",
   },
-  {
-    title: "URLs",
-    highlight: "$.webpages",
-  },
-  {
-    title: "Videos",
-    highlight: "$.youtube",
-  },
 ];
 
 const autoplayDuration = 3000;
